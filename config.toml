@@ -1,0 +1,12 @@
+baseURL = "https://www.newburghhandloomweavers.co.uk/"
+languageCode = "en-gb"
+title = "Newburgh Handloom Weavers"
+theme = "landing-page-hugo"
+
+[params]
+	description = "From Handloom to Heirloom..."
+    
+[[params.social]]
+	title = "facebook"
+	icon = "facebook"
+	url = "https://fb.com/NewburghHandloomWeavers"
