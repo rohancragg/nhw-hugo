@@ -1,5 +1,6 @@
 ---
-title: "About us..."
+title: "About Us"
 draft: false
 ---
-We are handloom weavers based in Newburgh, Fife.
+
+We are traditional handloom weavers based in Newburgh, Fife.
