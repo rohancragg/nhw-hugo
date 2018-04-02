@@ -4,6 +4,15 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+ @font-face {font-family: "Harrington";
+    src: url("//db.onlinewebfonts.com/t/20c2d461d736b1073c57cffba76d35d1.eot");
+    src: url("//db.onlinewebfonts.com/t/20c2d461d736b1073c57cffba76d35d1.eot?#iefix") format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/20c2d461d736b1073c57cffba76d35d1.woff2") format("woff2"),
+    url("//db.onlinewebfonts.com/t/20c2d461d736b1073c57cffba76d35d1.woff") format("woff"),
+    url("//db.onlinewebfonts.com/t/20c2d461d736b1073c57cffba76d35d1.ttf") format("truetype"),
+    url("//db.onlinewebfonts.com/t/20c2d461d736b1073c57cffba76d35d1.svg#Harrington") format("svg");
+}
+
 body,
 html {
     width: 100%;
